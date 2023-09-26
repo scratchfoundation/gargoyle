@@ -17,7 +17,7 @@ tests_require = [
 install_requires = [
     'django-modeldict>=1.2.0',
     'nexus>=0.2.3',
-    'django-jsonfield>=0.9.2,<0.9.13',
+    'django-jsonfield>=0.9.2,<0.9.15',
 ]
 
 
